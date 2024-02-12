@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Priyanshurajanand.github.io/static/css/main.bc32a44f.css",
+    "main.js": "/Priyanshurajanand.github.io/static/js/main.dd29486f.js",
+    "static/media/project-1.png": "/Priyanshurajanand.github.io/static/media/project-1.d8936d4ff2ad12ed1e83.png",
+    "static/media/project-3.png": "/Priyanshurajanand.github.io/static/media/project-3.886a92f52665fb0f3637.png",
+    "static/media/project-2.png": "/Priyanshurajanand.github.io/static/media/project-2.a73180e669834e06b4b9.png",
+    "static/media/about.jpeg": "/Priyanshurajanand.github.io/static/media/about.6ab08e656e1c31b7894b.jpeg",
+    "static/media/hero.jpeg": "/Priyanshurajanand.github.io/static/media/hero.5a214c5865574035a432.jpeg",
+    "static/media/Priyanshu_resume.pdf": "/Priyanshurajanand.github.io/static/media/Priyanshu_resume.d1912945c9828613d22d.pdf",
+    "static/media/project-4.png": "/Priyanshurajanand.github.io/static/media/project-4.a2f7d9c7d57308af6e6d.png",
+    "static/media/project-5.png": "/Priyanshurajanand.github.io/static/media/project-5.1c47aec6c553dd380956.png",
+    "index.html": "/Priyanshurajanand.github.io/index.html",
+    "main.bc32a44f.css.map": "/Priyanshurajanand.github.io/static/css/main.bc32a44f.css.map",
+    "main.dd29486f.js.map": "/Priyanshurajanand.github.io/static/js/main.dd29486f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc32a44f.css",
+    "static/js/main.dd29486f.js"
+  ]
+}
