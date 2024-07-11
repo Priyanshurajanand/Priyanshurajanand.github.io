@@ -15,7 +15,7 @@ const Skills = () => {
     {
       logo: "logo-nodejs",
       level: "NODE JS",
-      count: 60,
+      count: 80,
     },
     {
       logo: "logo-react",
@@ -51,6 +51,16 @@ const Skills = () => {
     {
       logo: "code-outline",
       level: "MONGO DB",
+      count: 80,
+    },
+    {
+      logo: "code-outline",
+      level: "Express Js",
+      count: 80,
+    },
+    {
+      logo: "code-outline",
+      level: "TypeScript",
       count: 80,
     },
   ];

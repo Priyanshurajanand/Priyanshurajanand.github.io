@@ -21,8 +21,8 @@ const Education = () => {
               <p className="text-white">
                 Indian Institute of Information Technology Manipur
               </p>
-              <p className="text-white">(2020 - present)</p>
-              <p className="text-white"> Curent CPI : 8.06 </p>
+              <p className="text-white">(2020 - 2024)</p>
+              <p className="text-white"> Overall CPI : 8.07 </p>
             </div>
           </div>
           <div className="relative col-span-1 w-full h-full flex justify-center items-center">

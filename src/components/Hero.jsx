@@ -4,7 +4,7 @@ const Hero = () => {
   const social_media = [
     { logo: "logo-instagram", link: "https://www.instagram.com/priyanshurajanand_/" },
     { logo: "logo-facebook", link: "https://www.facebook.com/priyanshuraj.anand.104" },
-    { logo: "logo-linkedin", link: "https://www.linkedin.com/in/priyanshu-raj-anand-431995201/" },
+    { logo: "logo-linkedin", link: "https://www.linkedin.com/in/priyanshu10/" },
     { logo: "logo-twitter", link: "https://www.twitter.com/PRIYANS27627417" },
     { logo: "logo-github", link: "https://github.com/Priyanshurajanand" },
   ];
@@ -28,7 +28,7 @@ const Hero = () => {
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
             Fullstack Developer and Blockchain Enthusiastic
           </h4>
-          <button className="btn-primary mt-8">Contact Me<ion-icon name="caret-down-outline"></ion-icon></button>
+          <button className="btn-primary mt-8" >Contact Me<ion-icon name="caret-down-outline"></ion-icon></button>
           <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-0.1">
             {social_media?.map((media, index) => (
               <div
